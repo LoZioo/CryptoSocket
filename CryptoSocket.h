@@ -26,3 +26,5 @@ class CryptoSocket{
 		CryptoSocket(uint8_t port);
 		~CryptoSocket();
 };
+
+// https://circuits4you.com/2018/11/26/esp8266-nodemcu-tcp-socket-server-arduino-example/
